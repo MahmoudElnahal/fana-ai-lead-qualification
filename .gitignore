@@ -1,0 +1,25 @@
+# CVs / personal documents
+*CV*
+*cv*
+*Resume*
+*resume*
+*سيرة*
+
+# Keys & secrets
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*secret*
+*credentials*
+*token*
+*apikey*
+*api_key*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
