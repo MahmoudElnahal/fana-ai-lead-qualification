@@ -20,7 +20,6 @@ One n8n workflow that takes leads from several channels, normalizes them, qualif
 | `samples/FANA_Leads_Sheet_Template.xlsx` | The Google Sheet structure (Leads, Scoring Rules, Test Scenarios, Dashboard, Assets). |
 | `samples/FANA_Sales_Queue_and_Test_Results.xlsx` | Prioritized sales list + results for the 10 scenarios. |
 | `screenshots/` | HubSpot and sheet evidence. |
-| `DEMO_SCRIPT.md` | 5–7 minute demo walkthrough. |
 
 ---
 
